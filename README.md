@@ -1,3 +1,5 @@
+Original repository is at https://github.com/dorimanx/exfat-nofuse
+
 exfat-nofuse
 ============
 
